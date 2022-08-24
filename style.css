@@ -18,8 +18,9 @@ h1 {
 }
 span {
     display: block;
-    font-size: 1.6rem;
-    background-color: aqua;
+    font-size: 1.5rem;
+    background-color: #109328;
+    padding: 5px;
 }
 p {
     padding: 40px 20px;
