@@ -16,6 +16,11 @@ h1 {
     font-weight: bold;
     background-color: #aaaaaa;
 }
+span {
+    display: block;
+    font-size: 1.6rem;
+    background-color: aqua;
+}
 p {
     padding: 40px 20px;
     font-size: 1.5rem;
